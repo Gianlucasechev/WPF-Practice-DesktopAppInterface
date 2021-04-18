@@ -5,6 +5,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
     <AssemblyName>PracticingWPF</AssemblyName>
+    <ApplicationIcon>Icono.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="banana.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="banana.png" />
+  </ItemGroup>
 
 </Project>

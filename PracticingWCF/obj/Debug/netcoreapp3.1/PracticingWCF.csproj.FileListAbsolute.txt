@@ -37,3 +37,4 @@ C:\Users\admin\Desktop\Repos\PracticingWCF\obj\Debug\netcoreapp3.1\PracticingWCF
 C:\Users\admin\Desktop\Repos\PracticingWCF\obj\Debug\netcoreapp3.1\PracticingWPF.dll
 C:\Users\admin\Desktop\Repos\PracticingWCF\obj\Debug\netcoreapp3.1\PracticingWPF.pdb
 C:\Users\admin\Desktop\Repos\PracticingWCF\obj\Debug\netcoreapp3.1\PracticingWCF.genruntimeconfig.cache
+C:\Users\admin\source\repos\PracticingWCF\PracticingWCF\obj\Debug\netcoreapp3.1\Styles.baml

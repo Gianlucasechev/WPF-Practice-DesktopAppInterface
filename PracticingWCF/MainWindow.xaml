@@ -103,8 +103,8 @@
                     Margin="60 0 0 0">
             <StackPanel Orientation="Horizontal">
                 <Image Width="50" Height="50" 
-                       Source="Fonts/banana.png"
-                       RenderOptions.BitmapScalingMode="Fant" Stretch="Fill"/>
+                       Source="/banana.png"
+                       RenderOptions.BitmapScalingMode="Fant" Stretch="UniformToFill"/>
                 <TextBlock Text="Pedrito Games"
                            Foreground="White" 
                            FontSize="25"

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\admin\Desktop\Repos\PracticingWCF\obj\Debug\netcoreapp3.1\
+C:\Users\admin\source\repos\PracticingWCF\PracticingWCF\obj\Debug\netcoreapp3.1\
 PracticingWCF
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\admin\Desktop\Repos\PracticingWCF\App.xaml
+C:\Users\admin\source\repos\PracticingWCF\PracticingWCF\App.xaml
 2787170672
 
 52062553200
 192-1533232326
 MainWindow.xaml;Styles.xaml;
 
-True
+False
 
